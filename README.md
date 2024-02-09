@@ -27,6 +27,9 @@ Example 2: `python main.py "c:/Users/YourUserName/Downloads/example.jpg" -s 64,1
 
 Example 3: `python main.py "c:/Users/YourUserName/Downloads/example.jpg" -s 64,128,256 -o "c:/Users/YourUserName/Downloads/example.jpg"`
 
-# Usage of the EXE
+# ImageResizer Executable 
+ 
+run the following in your command line: 
+ 
+    - ImageResizer.exe "Path/to/image.png" -o "Downloads" -s 10,20,30
 
-- main.exe "Path/to/image.png" -o "Downloads" -s 10,20,30
