@@ -21,7 +21,7 @@ This script allows you to resize an input image to multiple sizes and save the r
 
 # Example Usages
 
-Example 1: `python main.py -o "c:/Users/YourUserName/Downloads/"`
+Example 1: `python main.py -o "c:/Users/YourUserName/Downloads/example.jpg"`
 
 Example 2: `python main.py "c:/Users/YourUserName/Downloads/example.jpg" -s 64,128,256`
 
