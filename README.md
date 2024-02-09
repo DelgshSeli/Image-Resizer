@@ -13,6 +13,7 @@ This script allows you to resize an input image to multiple sizes and save the r
 1. Install Python (if not already installed)
 2. Install PIL library: `pip install Pillow`
 3. Install click library: `pip install click`
+4. Download the script from the GitHub repository: [Image Resizer GitHub Repo](https://github.com/DlgshKurd/Image-Resizer)
 
 # Example Usages
 
