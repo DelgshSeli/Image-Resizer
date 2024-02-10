@@ -2,6 +2,8 @@
 
 This script allows you to resize an input image to multiple sizes and save the resized images in an output folder. It uses the Python Imaging Library (PIL) to perform resizing and the click library for command line interface.
 
+![Recording2024-02-10222738-ezgif com-video-to-gif-converter](https://github.com/DlgshKurd/Image-Resizer/assets/96995162/0931f3d3-a040-4d69-abf6-fc9faaf4f4ea)
+
 # Features
 
 - Resize input image to specified sizes
