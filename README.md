@@ -35,3 +35,6 @@ run the following in your command line:
  
    `ImageResizer.exe "Path/to/image.png" -o "Downloads" -s 10,20,30`
 
+## Issues
+
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/DlgshKurd/Image-Resizer/issues).
