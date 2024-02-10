@@ -31,5 +31,5 @@ Example 3: `python main.py "c:/Users/YourUserName/Downloads/example.jpg" -s 64,1
  
 run the following in your command line: 
  
-    - ImageResizer.exe "Path/to/image.png" -o "Downloads" -s 10,20,30
+   `ImageResizer.exe "Path/to/image.png" -o "Downloads" -s 10,20,30`
 
